@@ -1,0 +1,17 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-item {
+    flex: 1;
+}
+
+#navbar {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+#navbar li {
+    float: left;
+}
